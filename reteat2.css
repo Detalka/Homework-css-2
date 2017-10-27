@@ -1,0 +1,35 @@
+h1, b, ol{
+    color: red;
+}
+
+i{
+    font-weight: bold;
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color:green;
+}
+
+b{
+    font-size: 18px;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    line-height: 25px;
+    font-size: 12px;
+}
+
+ul{
+    width: 500px;
+    line-height: 20px;
+    font-style: italic;
+    color: #924763;
+}
